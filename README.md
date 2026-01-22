@@ -109,3 +109,5 @@ sufficient diversification, mitigating potential risks.
 [1] [Federal Reserve 2024 Supervisory Stress Test Methodology](https://www.federalreserve.gov/publications/files/2024-march-supervisory-stress-testmethodology.pdf) (Accessed 10th April 2024)<br>
 [2] [Understanding Liquidity Ratios: Types and Their Importance](https://www.investopedia.com/terms/l/liquidityratios.asp) (Accessed 10th April 2024)<br>
 [3] [Basel 3 documentation for various metrics and calculations](https://www.bis.org/basel_framework/chapter/MAR/20.htm?inforce=20191215&published=20191215) (Accessed 10th April 2024)<br>
+
+Done By: Sumana and Anisha for GenAI Program at Genpact
